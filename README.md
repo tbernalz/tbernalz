@@ -53,10 +53,4 @@
 
 ###
 
-
-
-###
-
 <img src="https://raw.githubusercontent.com/tbernal121/tbernal121/output/snake.svg" alt="Snake animation" />
-
-###
