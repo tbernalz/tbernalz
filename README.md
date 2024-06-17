@@ -86,12 +86,18 @@
 ## <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="35"><b> 🔥 My Stats </b>
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com?user=tbernalz&locale=en&mode=daily&theme=chartreuse-dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"/>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tbernalz&theme=dark&date_format=j%20M%5B%20Y%5D&ring=5DFFAB&fire=EBEBEB&currStreakLabel=7CFFE3&sideLabels=F4FF2C"         alt="GitHub Streak" /></a>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=tbernalz&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbernalz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"/>
+
+[![Tomas Bernal GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only&locale=en)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
+[![Tomas Bernal GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only&locale=en)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
+
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbernalz&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" alt="languages graph"/>
 </div>
 
 <img src="https://raw.githubusercontent.com/tbernalz/tbernalz/output/snake.svg" alt="Snake animation"/>
