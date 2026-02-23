@@ -1,17 +1,17 @@
-<h1 align="center">Hi 👋, I'm Tomás!</h1>
-<h3 align="center">👨‍💻 Passionate Computer Science Student | 🚀 Eager to Learn and Innovate</h3>
+<h1 align="center">Hi 👋, I'm Tomas!</h1>
 
-<p align="left">
+<h3 align="center">👨‍💻 Passionate Software Engineer | 🚀 Eager to Learn and Innovate</h3>
+
+<!-- <p align="left">
   <img src="https://komarev.com/ghpvc/?username=tbernalz&label=Profile%20views&color=0e75b6&style=flat" alt="tbernalz" />
-</p>
+</p> -->
 
-- 🔭 I’m currently working on:
-  - [Ecommerce App Backend](https://github.com/tbernalz/Ecommerce-app-backend)
-  - [Inkoms](https://www.inkoms.com)
-  - [Ligbol](https://github.com/Ligbol)
-- 🌱 I’m currently learning: **NestJS, TypeScript, Machine Learning and AI**
-- 📫 How to reach me: **tbernalz@eafit.edu.co**
-- ⚡ Fun facts: I like to learn new things, even quirky skills like moving my ears!
+- 🔭 **I’m currently working on**:
+  - [IH Library System](https://github.com/tbernalz/ih-library-system)
+  - [LeetCode-Solutions](https://github.com/tbernalz/LeetCode-Solutions)
+- 🌱 **I’m currently learning**: .NET, Event-driven communication, RabbitMQ and AI
+- 📫 **How to reach me**: **tbernalz@eafit.edu.co**
+<!-- - ⚡ Fun facts: I like to learn new things, even quirky skills like moving my ears! -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -34,9 +34,12 @@
   <a href="https://www.java.com">
     <img src="https://skillicons.dev/icons?i=java" />
   </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
-    <img src="https://skillicons.dev/icons?i=javascript" />
+   <a href="https://dotnet.microsoft.com/en-us/languages/csharp">
+    <img src="https://skillicons.dev/icons?i=cs" />
   </a>
+  <!-- <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript">
+    <img src="https://skillicons.dev/icons?i=javascript" />
+  </a> -->
 </p>
 
 ### <b> Frameworks:</b>
@@ -45,11 +48,14 @@
   <a href="https://nestjs.com">
     <img src="https://skillicons.dev/icons?i=nestjs" />
   </a>
-  <a href="https://www.djangoproject.com">
+  <!-- <a href="https://www.djangoproject.com">
     <img src="https://skillicons.dev/icons?i=django" />
-  </a>
+  </a> -->
   <a href="https://nodejs.org">
     <img src="https://skillicons.dev/icons?i=nodejs" />
+  </a>
+  <a href="https://dotnet.microsoft.com">
+    <img src="https://skillicons.dev/icons?i=dotnet" />
   </a>
 </p>
 
@@ -62,9 +68,9 @@
   <a href="https://www.mysql.com">
     <img src="https://skillicons.dev/icons?i=mysql" />
   </a>
-  <a href="https://www.mongodb.com">
+  <!-- <a href="https://www.mongodb.com">
     <img src="https://skillicons.dev/icons?i=mongodb" />
-  </a>
+  </a> -->
 </p>
 
 ### <b> Clouds:</b>
@@ -73,9 +79,9 @@
   <a href="https://azure.microsoft.com">
     <img src="https://skillicons.dev/icons?i=azure" />
   </a>
-  <a href="https://cloud.google.com">
+  <!-- <a href="https://cloud.google.com">
     <img src="https://skillicons.dev/icons?i=gcp" />
-  </a>
+  </a> -->
   <a href="https://aws.amazon.com">
     <img src="https://skillicons.dev/icons?i=aws" />
   </a>
@@ -96,6 +102,12 @@
   <a href="https://www.postman.com">
     <img src="https://skillicons.dev/icons?i=postman" />
   </a>
+  <a href="https://www.rabbitmq.com/">
+    <img src="https://skillicons.dev/icons?i=rabbitmq" />
+  </a>
+  <a href="https://www.linux.org/">
+    <img src="https://skillicons.dev/icons?i=linux" />
+  </a>
 </p>
 
 #### Icons by: https://github.com/tandpfun/skill-icons
@@ -106,15 +118,25 @@
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=tbernalz&theme=dark&date_format=j%20M%5B%20Y%5D&ring=5DFFAB&fire=EBEBEB&currStreakLabel=7CFFE3&sideLabels=F4FF2C" alt="GitHub Streak" /></a>
 </div>
 
-<div align="center">
-
-[![Tomas Bernal GitHub stats-Dark](https://github-readme-stats.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=dark#gh-dark-mode-only&locale=en)](https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only)
-[![Tomas Bernal GitHub stats-Light](https://github-readme-stats.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=default#gh-light-mode-only&locale=en)](https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only)
-
+  <div align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=dark&locale=en">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&theme=default&locale=en">
+    <img alt="Tomas Bernal GitHub stats" src="https://github-readme-stats-eight-theta.vercel.app/api?username=tbernalz&show_icons=true&include_all_commits=true&count_private=true&locale=en">
+  </picture>
 </div>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=tbernalz&locale=en&hide_title=false&layout=compact&card_width=320&theme=dark" alt="tbernalz"/>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=tbernalz&layout=compact&theme=dark&locale=en&hide=html,handlebars,shaderlab&langs_count=8">
+    <source media="(prefers-color-scheme: light)" srcset="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=tbernalz&layout=compact&theme=default&locale=en&hide=html,handlebars,shaderlab&langs_count=8">
+    <img alt="Top Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs?username=tbernalz&layout=compact&locale=en&hide=html,handlebars,shaderlab&langs_count=8">
+  </picture>
 </div>
 
-<img src="https://raw.githubusercontent.com/tbernalz/tbernalz/output/snake.svg" alt="Snake animation"/>
+---
+
+<div align="center">
+  <h3><i>"Always a student, sometimes a builder, forever living, feeling, being"</i></h3>
+  <p>Someone, somewhere</p>
+</div>
